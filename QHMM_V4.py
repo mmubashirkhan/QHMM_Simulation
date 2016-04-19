@@ -119,9 +119,9 @@ grad_2_corr = []
 chain_all = []
 #==========================Set Coefficients=For all Chains=====================
 
-file_name = 'file_a'
-angles = np.linspace(0.5,39.5,40)  # file_a
-#angles = np.linspace(40.5,79.5,40)  # file_b
+file_name = 'file_b'
+#angles = np.linspace(0.5,39.5,40)  # file_a
+angles = np.linspace(40.5,79.5,40)  # file_b
 #angles = np.linspace(80.5,119.5,40)  # file_c
 #angles = np.linspace(120.5,159.5,40)  # file_d
 #angles = np.linspace(160.5,199.5,40)   # file_e
